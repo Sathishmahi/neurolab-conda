@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "nuerolab-conda"
+REPO_NAME = "nuerolab_conda"
 AUTHOR_USER_NAME = "Sathishmahi"
 SRC_REPO = "nuerolab-conda"
 AUTHOR_EMAIL = "sathishmahi433@gmail.com"
